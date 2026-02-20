@@ -107,6 +107,26 @@ main > section{
 #quick-list{
     font-weight: 500;
 }
+/* Featcures style */
+#Featcures-section-title{
+    border-left: 5px solid #FF900E;
+    padding: 10px;
+}
+.Featcures{
+    gap: 120px;
+}
+.feature-card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgb(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+}
+.feature-card .feature-title{
+    font-weight: 600;
+    font-weight: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 /* Some Facts styl */
 .facts-container{
     display: grid;
