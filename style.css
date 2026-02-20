@@ -182,6 +182,13 @@ main > section{
 .Sponsored-companies img{
     filter: grayscale(100%);
 }
+/* footer style */
+.footer-section{
+    font-size: 20px;
+    text-align: center;
+    background-color: bisque;
+    padding: 30px;
+    
 /* responsive media query */
 @media screen and (max-width: 576px) {
     .navbar, 
